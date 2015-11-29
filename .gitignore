@@ -1,0 +1,5 @@
+/config.php
+/setup.md5
+/images/*
+!/images/index.html
+!/images/blank.gif
